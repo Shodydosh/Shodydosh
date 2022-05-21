@@ -3,9 +3,9 @@
 - 💞️ I’m currently learning at Posts and Telecommunications Institute of Technology
 
 -    Connect with me on:
-- 📫 Facebook
+- 📫 Facebook:
   https://www.facebook.com/minhtung.nguyen.127201/
-- 📫 Instagram
+- 📫 Instagram:
   https://www.instagram.com/shodydosh/
   
  
