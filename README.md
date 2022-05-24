@@ -1,4 +1,4 @@
-- Wh0
+- Wh0 (˘෴˘)
 - 👋 Hi, I’m Shodydosh
 - 👀 I’m interested in coding, music and skateboarding
 - 💞️ I’m currently learning at Posts and Telecommunications Institute of Technology
