@@ -3,7 +3,6 @@
 - ✨ 900+ Toeic
 - ✨ I’m interested in coding, music and skateboarding
 - ✨ I’m currently learning at Posts and Telecommunications Institute of Technology
-- (╯ ͠° ͟ʖ ͡°)╯┻━┻
 
 -    Connect with me on:
 - 📫 Facebook:
