@@ -19,7 +19,7 @@
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <h2 align="center">🧮 About me</h2>
 <div>- Wh0 (˘෴˘) </div>
