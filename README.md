@@ -4,7 +4,7 @@
  <img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
 <h1 align="center">Hi, I'm Shodydosh <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=An+engineering+student+at+PTIT;Competitive+Programmer%20|%20Web+Developer;905++TOEIC;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=An+engineering+student+at+PTIT;Currently+learning+web+developing;905+TOEIC;Be+so+good+they+can't+ignore+you&center=true&width=500&height=50"></a>
 </p>
 </div>
 
@@ -17,19 +17,6 @@
 
 <div>
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-<details>
-  <summary>☎️ contact me</summary>
-<div>
-  <samp>
-    <h2 align="center">😎 you can reach me by:</h2>
-    <p align="center">
-      <br/>
-      
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
 
 <details>
   <summary>🧮 about</summary>
