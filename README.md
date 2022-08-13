@@ -64,10 +64,7 @@
  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
  <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<!-- <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a> -->
+ 
 </div>
 </details>
 
@@ -101,22 +98,13 @@
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shodydosh&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
-
-<details>
-  <summary>✨ Hackerrank Badges</summary>
-  <br/>
-  <h2 align="center">
-   
-    <a href="hackerrank.com/shodydosh"><img alt="HackerRank" src="https://user-images.githubusercontent.com/87895460/169630516-b5892e12-054a-42f5-8d8d-de74f95ab1bf.png" />
-    </a>
-  </h2>
-
-</details>
  
 </div>
 
 <br/>
-
+ 
+<!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
+ 
  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
  ![C++](https://img.shields.io/badge/-c++-red?style=flat-square&logo=c&logoColor=ffffff)
  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -131,11 +119,10 @@
  ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
- 
- 
-
-
-----
+  ----
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Shodydosh)
+  [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Shodydosh/)
+  ----
 ⭐️ From [Shodydosh](https://github.com/shodydoshD)
 
 Last Edited on: 13/08/2022
