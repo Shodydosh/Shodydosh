@@ -14,6 +14,7 @@
        alt="snake" /></a>
 </div>
 
+
 <div>
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <details>
@@ -77,18 +78,20 @@
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
-      <br/>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
         <p align="center">
-          <a href="https://github.com/shodydosh/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodydosh&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
+           <a href="https://github.com/shodydosh/">
+           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shodydosh&theme=tokyonight" />
+           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shodydosh&show_icons=true&theme=tokyonight" />
+           </a>
         </p>
         <p align="center">
           <a href="https://github.com/shodydosh/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shodydosh&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shodydosh&theme=gruvbox&hide_border=true" />
-          </a>
-       </p>
-     <br>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodydosh&theme=tokyonight&layout=compact" alt="Shodydosh :: Top Langs" />
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shodydosh&theme=tokyonight" alt="Shodydosh :: Waka time" />
+         </a>
+        </p>
+     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   </div>    
 </details>
 
@@ -113,7 +116,7 @@
 
 <br/>
 
-<!--  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+ ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)\
  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
  ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -124,4 +127,4 @@
  ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
  ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
- ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) -->
+ ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
