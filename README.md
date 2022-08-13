@@ -106,6 +106,7 @@
   <summary>✨ Hackerrank Badges</summary>
   <br/>
   <h2 align="center">
+   
     <a href="hackerrank.com/shodydosh"><img alt="HackerRank" src="https://user-images.githubusercontent.com/87895460/169630516-b5892e12-054a-42f5-8d8d-de74f95ab1bf.png" />
     </a>
   </h2>
@@ -116,6 +117,7 @@
 
 <br/>
 
+ 
  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)\
  ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
