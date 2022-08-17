@@ -71,8 +71,15 @@
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
+  <h2 align="center"> My current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shodydosh&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+</details>
+
+<details>
+  <summary>⚡ Github Profile Trophy </summary>
+  <br/>
+  <h2 align="center"> Github Profile Trophy </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shodydosh" alt="Shodydosh" /></a> </p>
 </details>
  
 </div>
