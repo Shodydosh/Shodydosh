@@ -82,10 +82,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shodydosh" alt="Shodydosh" /></a> </p>
 </details>
  
-</div>
-
-<br/>
- 
 <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shodydosh/)
