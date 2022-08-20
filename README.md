@@ -79,7 +79,7 @@
   <summary>⚡ Github Profile Trophy </summary>
   <br/>
   <h2 align="center"> Github Profile Trophy </h2>
-<p align="left"> <a href="https://github.com/shodydosh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shodydosh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy" alt="Shodydosh" /></a> </p>
+<p align="left"> <a href="https://github.com/shodydosh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shodydosh&theme=onedark" alt="Shodydosh" /></a> </p>
 </details>
  
 <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
