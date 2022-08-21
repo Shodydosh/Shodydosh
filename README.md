@@ -60,8 +60,8 @@
         </p>
         <p align="center">
           <a href="https://github.com/shodydosh/">
-          <img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodydosh&theme=tokyonight&layout=compact" alt="Shodydosh :: Top Langs" />
-          <img width="59.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shodydosh&theme=tokyonight" alt="Shodydosh :: Waka time" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shodydosh&theme=tokyonight&layout=compact" alt="Shodydosh :: Top Langs" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=shodydosh&theme=tokyonight" alt="Shodydosh :: Waka time" />
          </a>
         </p>
      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
