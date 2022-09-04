@@ -106,8 +106,9 @@
  ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+ ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
   ----
   
 ⭐️ From [Shodydosh](https://github.com/shodydoshD)
 
-Last Edited on: 20/08/2022
+Last Edited on: 04/09/2022
