@@ -109,6 +109,6 @@
  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
   ----
   
-⭐️ From [Shodydosh](https://github.com/shodydoshD)
+⭐️ From [Shodydosh](https://github.com/shodydosh)
 
-Last Edited on: 04/09/2022
+Last Edited on: 08/09/2022
