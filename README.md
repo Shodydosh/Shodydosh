@@ -105,7 +105,7 @@
  ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
   ----
-  
+  <p align="left"> Github profile views:  </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shodydosh" alt="Shodydosh" /> </p>
 ⭐️ From [Shodydosh](https://github.com/shodydosh)
 
 Last Edited on: 13/10/2022
