@@ -110,6 +110,8 @@
  ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
   ----
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shodydosh" alt="Shodydosh" /> </p>
+ <img alt="Stars" src="https://img.shields.io/github/stars/shodydosh"/>
+ 
  
 ⭐️ From Shodydosh
 
