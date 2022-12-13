@@ -24,6 +24,7 @@
 <h2 align="center">🧮 About me</h2>
 <div>- Wh0 (˘෴˘) </div>
 <div>- ✨ Hi, I’m Shodydosh</div>
+<div>- ✨ Ranking 208,379 on Leetcode</div>
 <div>- ✨ 900+ Toeic</div>
 <div>- ✨ I’m interested in coding, music and skateboarding</div>
 <div>- ✨ I’m currently learning at Posts and Telecommunications Institute of Technology</div>
@@ -115,4 +116,4 @@
  
 ⭐️ From Shodydosh
 
-Last Edited on: 11/7/2022
+Last Edited on: 13/12/2022
