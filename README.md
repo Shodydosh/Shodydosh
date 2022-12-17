@@ -77,7 +77,7 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> My current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Shodydosh&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shodydosh&bg_color=000000&color=5a775c&line=00ff40&point=000000&area=true&hide_border=true" /></a>
 </details>
 
 <details>
@@ -116,4 +116,4 @@
  
 ⭐️ From Shodydosh
 
-Last Edited on: 13/12/2022
+Last Edited on: 17/12/2022
