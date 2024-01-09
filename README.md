@@ -1,3 +1,4 @@
+<!---
  <div align="center">
  <img align="left" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
  <img align="right" src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 100px height=100px>
@@ -30,7 +31,7 @@
 <div>- ✨ I’m currently learning at Posts and Telecommunications Institute of Technology</div>
 </div>
 </details>
-
+-->
 
 <details>
   <summary>🔭 Tech Stack</summary>
@@ -73,7 +74,7 @@
 </details>
 
 
-
+<!--
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -102,14 +103,14 @@
   <h2 align="center"> My current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shodydosh's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Shodydosh&bg_color=000000&color=5a775c&line=00ff40&point=000000&area=true&hide_border=true" /></a>
 </details>
-
 <details>
   <summary>⚡ Github Profile Trophy </summary>
   <br/>
   <h2 align="center"> Github Profile Trophy </h2>
 <p align="left"> <a href="https://github.com/shodydosh/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shodydosh&theme=onedark" alt="Shodydosh" /></a> </p>
 </details>
- 
+-->
+
 <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
 
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shodydosh/)
@@ -141,7 +142,7 @@
 
   
 <img src="https://komarev.com/ghpvc/?username=Shodydosh" alt="Shodydosh" />
-<img alt="Stars" src="https://img.shields.io/github/stars/shodydosh"/>
+<!--<img alt="Stars" src="https://img.shields.io/github/stars/shodydosh"/>-->
  
  
 ⭐️ From Shodydosh
