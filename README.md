@@ -33,6 +33,7 @@
 </details>
 -->
 
+<!--
 <details>
   <summary>🔭 Tech Stack</summary>
 <div align="center">
@@ -112,7 +113,7 @@
 -->
 
 <!--  //https://dev.to/envoy_/150-badges-for-github-pnk -->
-
+<!--
  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shodydosh/)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shodydosh/)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tungnguyen252/)
@@ -145,4 +146,4 @@
 <!--<img alt="Stars" src="https://img.shields.io/github/stars/shodydosh"/>-->
  
  
-⭐️ From Shodydosh
+⭐️ From Tung Nguyen
